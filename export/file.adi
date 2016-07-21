@@ -1,0 +1,19 @@
+G4HDU Wablog download for G4HDU
+Date: Sat Apr 25 07:28:36 2015
+Bookid: 2
+Records: 10
+<ADIF_VER:5>3.0.4
+<PROGRAMID:12>G4HDU Wablog
+<PROGRAMVERSION:3>1.0
+<eoh>
+<app_wablogID:64>0dec251a3c0e9653efd85f800867c8c2b5bda4b86852e9f2f8648747ba9f5768<app_workedfk:3>705<app_fromfk:3>714<qso_date:8>20150407<qso_date_off:8>19700101<time_on:4>1556<time_off:4>0000<call:6>mm3pdu<freq:6>7.1600<freq_rx:6>7.1600<rst_rcvd:4>0000<rst_sent:4>0000<app_wabareaID:3>705<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__02bafdcbc74986faac9431d750a44f2b19d9810240d8f2773ab1a62adc561414<app_workedfk:3>697<app_fromfk:4>1193<qso_date:8>20150502<qso_date_off:8>19700101<time_on:4>1608<time_off:4>0000<call:5>g8iis<freq:6>7.1600<freq_rx:6>7.1600<rst_rcvd:4>0000<rst_sent:4>0000<app_wabareaID:3>697<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__08d35cd4bc264b74aa1cd041640f3665c737962cd8fd5bc24ce95f6efea0cde5<app_workedfk:3>705<app_fromfk:3>714<qso_date:8>20150408<qso_date_off:8>19700101<time_on:4>0845<time_off:4>0000<call:5>g4hdu<freq:6>7.1600<freq_rx:6>7.1600<rst_rcvd:4>0000<rst_sent:4>0000<country:7>England<app_wabareaID:3>705<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__0b14b7f5c43840a0a837f88ca5bca4435256134af341b8151390705f03bf1e5a<app_workedfk:3>682<app_fromfk:3>682<qso_date:8>20150407<qso_date_off:8>19700101<time_on:4>1639<time_off:4>0000<call:5>g4hdu<freq:6>7.1000<freq_rx:6>7.1000<rst_rcvd:4>0000<rst_sent:4>0000<country:7>England<app_wabareaID:3>682<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__0d4679c470737d6c0b5d4d751cedbd3db2ca5538ae09b96e4796991e4c9e4a4f<qso_date:8>20150408<qso_date_off:8>19700101<time_on:4>0846<time_off:4>0000<call:5>g4hdu<freq:6>7.9800<freq_rx:6>7.9800<rst_rcvd:4>0000<rst_sent:4>0000<country:7>England<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__495551756a4b7a4ef265ef3e46b0747e1cca52cfdb7bbe761a4a2a22a12e17e5<qso_date:8>20150408<qso_date_off:8>19700101<time_on:4>0846<time_off:4>0000<call:5>g4hdu<freq:6>0.0000<freq_rx:6>0.0000<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__85890640faaf93c1ea3b8153888355033be5c351f4e457d5b8a5aed404239a13<app_fromfk:3>708<qso_date:8>20150407<qso_date_off:8>20150407<time_on:4>1635<time_off:4>1758<call:5>g4hdu<freq:6>4.3000<freq_rx:6>4.3000<rst_rcvd:4>0000<rst_sent:4>0000<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__9d42b60cda87bd6908c75edc979115e77efe7052971d489a26ae18762b348196<app_workedfk:3>704<qso_date:8>20150408<qso_date_off:8>19700101<time_on:4>0855<time_off:4>0000<call:5>g4hdu<freq:6>5.7800<freq_rx:6>5.7800<rst_rcvd:4>0000<rst_sent:4>0000<app_wabareaID:3>704<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__c30697efa605ad6606e98e62ba49896662f53fb13ceeae392163247c79836b6d<app_workedfk:3>705<app_fromfk:3>714<qso_date:8>20150409<qso_date_off:8>19700101<time_on:4>0857<time_off:4>0000<call:5>g4hdu<freq:6>7.1600<freq_rx:6>7.1600<rst_rcvd:4>0000<rst_sent:4>0000<app_wabareaID:3>705<qsl_rcvd:1>N<qsl_sent:1>N
+<app_wablogID:67>1__f6017f5ec3d6a16b27212d1c7da94246de24528ecf84ae181a3e3eb5a31aadc3<app_workedfk:3>697<app_fromfk:4>1193<qso_date:8>20150502<qso_date_off:8>19700101<time_on:4>1608<time_off:4>0000<call:5>g4hdu<freq:6>7.1600<freq_rx:6>7.1600<rst_rcvd:4>0000<rst_sent:4>0000<app_wabareaID:3>697<qsl_rcvd:1>N<qsl_sent:1>N
+<eor>
